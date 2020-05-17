@@ -1,4 +1,4 @@
-# QuarterPast
+# Quarter Past
 2020 GameDev.tv Community Jam submission by David Strader
 
 My submission to the 2020 GameDev.tv Game Jam: https://itch.io/jam/gamedevtv-community-jam
