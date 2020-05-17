@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 55b80ce555763794cb10f2f7ebf3b96e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Clocker
+  fontNames:
+  - Clocker
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c4676b4bca476d044b5bec4776624979, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
