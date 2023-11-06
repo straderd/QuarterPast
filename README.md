@@ -1,7 +1,10 @@
 # Quarter Past
-2020 GameDev.tv Community Jam submission by David Strader
+2020 GameDev.tv Community Jam submission
 
 My submission to the 2020 GameDev.tv Game Jam: https://itch.io/jam/gamedevtv-community-jam
+
+PLay on web browser here: https://strayderps.itch.io/quarterpast
+Play on Android here: https://play.google.com/store/apps/details?id=com.stray.derps.QuarterPast
 
 The assigned theme was "Time."
 
